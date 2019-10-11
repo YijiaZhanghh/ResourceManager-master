@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<Root Database="C:\Users\Zeyan Li\Desktop\2018.xlsx">
+  <Structure>
+    <Field>
+   <Field_Name>Field1</Field_Name>
+    </Field>
+    <Field>
+   <Field_Name>Field2</Field_Name>
+    </Field>
+    <Field>
+   <Field_Name>Field3</Field_Name>
+    </Field>
+    <Field>
+   <Field_Name>Field4</Field_Name>
+    </Field>
+    <Field>
+   <Field_Name>Field5</Field_Name>
+    </Field>
+    <Field>
+   <Field_Name>Field6</Field_Name>
+    </Field>
+    <Field>
+   <Field_Name>Field7</Field_Name>
+    </Field>
+    <Field>
+   <Field_Name>Field8</Field_Name>
+    </Field>
+
+
+  </Structure>
+  <Records>
+   <Record>
+     <Field1>2018/10/10 19:47:14</Field1>
+     <Field2>Xinsheng Wen</Field2>
+     <Field3>Public Relations</Field3>
+     <Field4>Executives</Field4>
+     <Field5>Seanwenxs@hotmail.com</Field5>
+     <Field6>7788636766</Field6>
+     <Field7>Seanwen2</Field7>
+     <Field8>Arts</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/12 11:54:20</Field1>
+     <Field2>Rita</Field2>
+     <Field3>External Relations</Field3>
+     <Field4>Executives</Field4>
+     <Field5>yijia19990903@gmail.com</Field5>
+     <Field6>7783184752</Field6>
+     <Field7>RC19990903</Field7>
+     <Field8>Sauder</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/12 22:29:45</Field1>
+     <Field2>Yining Wang</Field2>
+     <Field3>model.Marketing</Field3>
+     <Field4>Executives</Field4>
+     <Field5>Yining671@gmail.com</Field5>
+     <Field6>7786899518</Field6>
+     <Field7>970514176</Field7>
+     <Field8>Sauder</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/10 09:06:34</Field1>
+     <Field2>Bowen</Field2>
+     <Field3>model.Marketing</Field3>
+     <Field4>Director</Field4>
+     <Field5>bowenzhang99@gmail.com</Field5>
+     <Field6>6045009432</Field6>
+     <Field7>zbw990720981112</Field7>
+     <Field8>Sauder</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/10 13:41:27</Field1>
+     <Field2>Yanbing Liu</Field2>
+     <Field3>model.Marketing</Field3>
+     <Field4>Director</Field4>
+     <Field5>Nicol.liu1999@gmail.com</Field5>
+     <Field6>7787065358</Field6>
+     <Field7>LYBNL1999</Field7>
+     <Field8>Sauder</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/10 09:03:03</Field1>
+     <Field2>Yijia</Field2>
+     <Field3>model.Marketing</Field3>
+     <Field4>VP</Field4>
+     <Field5>tyouiiika@foxmail.com</Field5>
+     <Field6>7788896656</Field6>
+     <Field7>tyouika-</Field7>
+     <Field8>Sauder</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/5 09:57:08</Field1>
+     <Field2>Baiquan Wang</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>Executives</Field4>
+     <Field5>bqw217@gmail.com</Field5>
+     <Field6>7807103598</Field6>
+     <Field7>baibaibaiquan</Field7>
+     <Field8>Sauder</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/5 10:01:10</Field1>
+     <Field2>Miranda</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>Executives</Field4>
+     <Field5>yzy.miranda@gmail.com</Field5>
+     <Field6>6047285899</Field6>
+     <Field7>ziyuyang29</Field7>
+     <Field8>Arts</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/5 10:53:18</Field1>
+     <Field2>Leo</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>Executives</Field4>
+     <Field5>leohong05@gmail.com</Field5>
+     <Field6>7785222418</Field6>
+     <Field7>Leo12376</Field7>
+     <Field8>Arts</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/5 10:55:50</Field1>
+     <Field2>Jane Li</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>Executives</Field4>
+     <Field5>jane12345_love@163.com</Field5>
+     <Field6>778-798-0561</Field6>
+     <Field7>JaneVancouver-</Field7>
+     <Field8>Arts</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/5 12:35:30</Field1>
+     <Field2>Kathy</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>Executives</Field4>
+     <Field5>kathywsq@hotmail.com</Field5>
+     <Field6>18180620069</Field6>
+     <Field7>wsq826591187</Field7>
+     <Field8>Arts</Field8>
+
+   </Record>
+   <Record>
+     <Field1>2018/10/5 16:56:55</Field1>
+     <Field2>Zhengjia Wang</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>Executives</Field4>
+     <Field5>molly203031@gmail.com</Field5>
+     <Field6>7786892945</Field6>
+     <Field7>molly750406</Field7>
+     <Field8>Sauder</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/5 23:04:26</Field1>
+     <Field2>silin chen</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>Executives</Field4>
+     <Field5>silinchen40@gmail.com</Field5>
+     <Field6>2368620104</Field6>
+     <Field7>578279693</Field7>
+     <Field8>lfs</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/9 20:26:30</Field1>
+     <Field2>Monkey.Dai.Hong</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>Executives</Field4>
+     <Field5>monkey34@outlook.com</Field5>
+     <Field6>(236)863-7323</Field6>
+     <Field7>(236)863-7323</Field7>
+     <Field8>Management</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/9 20:28:18</Field1>
+     <Field2>Yiwen Chen</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>Executives</Field4>
+     <Field5>yiwen1998@hotmail.com</Field5>
+     <Field6>7788933272</Field6>
+     <Field7>--cyw--</Field7>
+     <Field8>Sauder</Field8>
+
+   </Record>
+   <Record>
+     <Field1>2018/10/11 22:48:38</Field1>
+     <Field2>Xiaochen</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>Executives</Field4>
+     <Field5>lilixu.ubc@gmail.com</Field5>
+     <Field6>7786827898</Field6>
+     <Field7>liliath</Field7>
+     <Field8>Science</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/12 22:28:60</Field1>
+     <Field2>Miranda</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>Executives</Field4>
+     <Field5>yzy.miranda@gmail.com</Field5>
+     <Field6>6047285899</Field6>
+     <Field7>ziyuyang29</Field7>
+     <Field8>Arts</Field8>
+     <Field9></Field9>
+     <Field10></Field10>
+     <Field11></Field11>
+     <Field12></Field12>
+     <Field13></Field13>
+     <Field14></Field14>
+
+   </Record>
+   <Record>
+     <Field1>2018/10/12 22:38:59</Field1>
+     <Field2>Siyuan He</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>Executives</Field4>
+     <Field5>hesiyuan48@gmail.com</Field5>
+     <Field6>6047270618</Field6>
+     <Field7>hesiyuan1994</Field7>
+     <Field8>Science</Field8>
+
+   </Record>
+   <Record>
+     <Field1>2018/10/5 10:01:48</Field1>
+     <Field2>Neil</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>Director</Field4>
+     <Field5>zyunlong1992@gmail.com</Field5>
+     <Field6>7787983888</Field6>
+     <Field7>1350341681</Field7>
+     <Field8>Engineering</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/10 00:09:57</Field1>
+     <Field2>Yuejun Guo</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>Director</Field4>
+     <Field5>764319114@qq.com</Field5>
+     <Field6>7783194892</Field6>
+     <Field7>g764319114</Field7>
+     <Field8>Science</Field8>
+
+
+   </Record>
+   <Record>
+     <Field1>2018/10/12 22:50:21</Field1>
+     <Field2>Mengxi Zhang</Field2>
+     <Field3>model.Academics</Field3>
+     <Field4>VP</Field4>
+     <Field5>zmx94824@gmail.com</Field5>
+     <Field6>2505520687</Field6>
+     <Field7>lukezhangmengxi</Field7>
+     <Field8>Engineering</Field8>
+
+
+   </Record>
+ </Records>
+ </Root>
